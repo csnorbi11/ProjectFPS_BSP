@@ -36,11 +36,14 @@ Goal is to make a simple "Game" where you can walk around and load different map
 - [X] FPS camera
 - [X] Input system
 - [X] 3D Graphics
-- [X] Basic Lighting
+- [X] Phong-Blinn shading
 - [X] Scene
+- [X] Batcing
+- [X] Instancing
+- [X] Loading Scene
+- [X] Load Wavefront OBJs
 - [ ] Player controller
 - [ ] Collision with static geometry (BVH)
-- [X] Load basic level (Wavefront OBJ)
 - [ ] Basic physics
 - [ ] Debug overlay
 
